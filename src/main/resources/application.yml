@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: embabel-shell-demo-meeting-summarizer-agent
+
+embabel:
+  models:
+    defaultLlm: gemini-2.0-flash-exp
+
+logging:
+  level:
+    com.embabel: DEBUG
+    org.springframework.ai: DEBUG
