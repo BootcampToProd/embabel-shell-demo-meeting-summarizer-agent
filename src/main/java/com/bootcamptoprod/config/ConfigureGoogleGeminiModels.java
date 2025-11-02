@@ -5,6 +5,7 @@ import com.embabel.common.ai.model.Llm;
 import com.embabel.common.ai.model.PerTokenPricingModel;
 import io.micrometer.observation.ObservationRegistry;
 import org.jetbrains.annotations.NotNull;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -13,10 +14,10 @@ import java.time.LocalDate;
 @Configuration
 public class ConfigureGoogleGeminiModels extends OpenAiCompatibleModelFactory {
 
-    public ConfigureGoogleGeminiModels(@NotNull ObservationRegistry observationRegistry) {
+    public ConfigureGoogleGeminiModels(@NotNull ObservationRegistry observationRegistry, @Value("${GOOGLE_GEMINI_API_KEY}") String apiKey) {
         super(
                 "https://generativelanguage.googleapis.com",
-                "{YOUR_GOOGLE_GEMINI_API_KEY}",
+                apiKey,
                 "/v1beta/openai/chat/completions",
                 null,
                 observationRegistry
