@@ -37,7 +37,10 @@ cd embabel-shell-demo-meeting-summarizer-agent
 ```
 
 ### 2️⃣ Configure API Key
-Set your Google Gemini API key inside ConfigureGoogleGeminiModels class
+Provide your Google Gemini API key inside the environment variable
+```bash
+GOOGLE_GEMINI_API_KEY={YOUR_GOOGLE_GEMINI_API_KEY}
+```
 
 ### 3️⃣ Build the Project
 ```bash
