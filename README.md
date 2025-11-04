@@ -5,6 +5,18 @@ Transform your Spring Boot applications with **intelligent, goal-driven AI agent
 📖 **Complete Guide**: For detailed explanations and GOAP algorithm walkthrough, read our comprehensive tutorial.<br>
 👉 [**Embabel Framework: Create Goal-Driven AI Agents for the JVM**](https://bootcamptoprod.com/embabel-framework-guide/)
 
+🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
+👉 YouTube Tutorial - [**Build Goal-Driven Agents with Embabel Framework | Stop Manual AI Orchestration!**](https://youtu.be/kL2x8OeMt8w)
+
+<p align="center">
+  <a href="https://youtu.be/kL2x8OeMt8w">
+    <img src="https://youtu.be/kL2x8OeMt8w/0.jpg" alt="Build Goal-Driven Agents with Embabel Framework | Stop Manual AI Orchestration!" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/kL2x8OeMt8w">Watch on YouTube</a>
+</p>
 ---
 
 ## ✨ What This Project Demonstrates
