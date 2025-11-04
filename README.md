@@ -10,13 +10,14 @@ Transform your Spring Boot applications with **intelligent, goal-driven AI agent
 
 <p align="center">
   <a href="https://youtu.be/kL2x8OeMt8w">
-    <img src="https://youtu.be/kL2x8OeMt8w/0.jpg" alt="Build Goal-Driven Agents with Embabel Framework | Stop Manual AI Orchestration!" />
+    <img src="https://img.youtube.com/vi/kL2x8OeMt8w/0.jpg" alt="Build Goal-Driven Agents with Embabel Framework | Stop Manual AI Orchestration!" />
   </a>
 </p>
 
 <p align="center">
   ▶️ <a href="https://youtu.be/kL2x8OeMt8w">Watch on YouTube</a>
 </p>
+
 ---
 
 ## ✨ What This Project Demonstrates
